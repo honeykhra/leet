@@ -9,8 +9,7 @@
  * @param {number} n
  * @return {number}
  */
-var climbStairs = function(n) {
-    
+var climbStairs = function (n) {
+  console.log(n);
 };
 // @lc code=end
-
